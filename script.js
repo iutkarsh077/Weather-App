@@ -61,7 +61,7 @@ submit.addEventListener("click", (e)=>{
 })
 
 
-func1("Bengaluru");
+func1("Delhi");
 
 
 
