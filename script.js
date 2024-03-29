@@ -61,7 +61,7 @@ submit.addEventListener("click", (e)=>{
 })
 
 
-func1("Delhi");
+func1("Delhi")
 
 
 
